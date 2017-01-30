@@ -1,7 +1,7 @@
 # Carlos Salas
 
 1. Information Science Major
-*Sophomore at UNC
+* Sophomore at UNC
 2. from Charlotte, NC
 3. enjoys playing basketball in his free time
 
