@@ -6,6 +6,7 @@
 3. enjoys playing basketball in his free time
 
 Spring 2017 schedule
+
 | Class          | Days         |
 | ------------- |:-------------:|
 |ASTR 101       |MWF            |
